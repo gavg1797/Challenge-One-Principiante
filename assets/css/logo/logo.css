@@ -3,3 +3,12 @@
     margin-left: 10px;
     width: 10%;
 }
+
+@media screen and (max-width) {
+    .logo{
+        padding-left: 130px;
+        margin-left: 5px;
+        width: 10%;
+
+    }
+}

@@ -15,3 +15,21 @@
 .mensaje:focus {
     outline: none;
 }
+
+@media screen and (max-width:768px){
+    .mensaje{
+        display: inline;
+        height: 250px;
+        background: white;
+        background-image: url("./../../imagenes/Muñeco.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        border: none;
+        border-radius: 24px;
+        color: #0A3871;
+        margin-left: 98px;
+        margin-top: 20px;
+        padding-left: 20px;
+        
+    }
+}

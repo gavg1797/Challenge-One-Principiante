@@ -7,3 +7,16 @@
     height: 67px;
     width: 328px;
 }
+
+@media screen and (max-width:768px){
+    .btn-encriptar{
+        background-color: #0A3871;
+        border: 1px solid #0A3871;
+        border-radius: 24px;
+        color: white;
+        cursor: pointer;
+        height: 67px;
+        margin-right: 200px;
+        width: 328px;
+    }
+  }

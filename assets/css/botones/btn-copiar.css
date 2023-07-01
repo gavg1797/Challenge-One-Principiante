@@ -5,7 +5,20 @@
     cursor: pointer;
     height: 67px;
     margin-left: 120px;
-    margin-top: 565px;
+    margin-top: 450px;
     position: absolute;
     width: 336px;
+}
+
+@media screen and (max-width:768px){
+    .copiar{
+        color: #0A3871;
+        cursor: pointer;
+        height: 67px;
+        margin-left: 0;
+        margin-top: 450px;
+        position: relative;
+        width: 336px;
+        }
+    
 }

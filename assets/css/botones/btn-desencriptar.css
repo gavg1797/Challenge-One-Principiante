@@ -8,3 +8,17 @@
     margin-left: 30px;
     width: 328px;
 }
+
+@media screen and (max-width:768px){
+    .btn-desencriptar{
+        background: #D8DFE8;
+        border: 1px solid #0A3871;
+        border-radius: 24px;
+        color: #0A3871;
+        cursor: pointer;
+        height: 67px;
+        margin-left: 200px;
+        margin-top: 0;
+        width: 328px;
+    }
+  }
